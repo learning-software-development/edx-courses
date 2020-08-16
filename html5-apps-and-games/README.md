@@ -1,4 +1,4 @@
-# HTML5 Apps and Games
+# :mortar_board: :video_game: HTML5 Apps and Games
 
 :link: edX online [course] (Week 2: Game programming with HTML5)
 
