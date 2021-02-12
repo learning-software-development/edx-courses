@@ -9,7 +9,7 @@ These are all the [edX][edx] online courses I completed to learn new skills and 
 
 1. :o: [HTML5 Apps and Games](html5-apps-and-games/)
 
-## HarvardX CS50
+## :beginner: HarvardX CS50 Courses
 
 - :o: [CS50's Introduction to Computer Science](introduction-to-computer-science)
 - :o: [CS50's Web Programming with Python and JavaScript](web-programming-with-python-and-javascript)

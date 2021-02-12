@@ -1,4 +1,4 @@
-# CS50's Introduction to Computer Science
+# :mortar_board: CS50's Introduction to Computer Science
 
 Online [course][course] on edX
 
