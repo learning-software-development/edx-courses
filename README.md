@@ -8,6 +8,7 @@ These are all the [edX][edx] online courses I completed to learn new skills and 
 ## :beginner: Tutorials and Courses
 
 1. :o: [HTML5 Apps and Games](html5-apps-and-games/)
+2. :o: [Introduction to Game Design](https://learning.edx.org/course/course-v1:MITx+11.126x_2+1T2016/home) :link:
 
 ## :beginner: HarvardX CS50 Courses
 
